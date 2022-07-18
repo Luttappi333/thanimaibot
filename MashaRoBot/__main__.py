@@ -168,7 +168,7 @@ def send_help(chat_id, text, keyboard=None):
     )
 
 
-@komassistantbot
+@run_async
 def test(update: Update, context: CallbackContext):
     # pprint(eval(str(update)))
     # update.effective_message.reply_text("Hola tester! _I_ *have* `markdown`", parse_mode=ParseMode.MARKDOWN)
@@ -176,7 +176,7 @@ def test(update: Update, context: CallbackContext):
     print(update.effective_message)
 
 
-@komassistantbot
+@run_async
 def start(update: Update, context: CallbackContext):
     args = context.args
     uptime = get_readable_time((time.time() - StartTime))
