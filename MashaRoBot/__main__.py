@@ -67,7 +67,7 @@ PM_START_TEXT = """
 ┏━━━━━•❃°•°❀°•°❃•━━━━┓
 ×  `{}` users, across `{}` chats..
 ┗━━━━━•❃°•°❀°•°❃•━━━━┛
-✪ Bot For help You Manage & Protect Your Groups.
+
 ๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
 
 
