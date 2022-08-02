@@ -67,13 +67,13 @@ PM_START_TEXT = """
 ┏━━━━━•❃°•°❀°•°❃•━━━━┓
 ×  `{}` users, across `{}` chats..
 ┗━━━━━•❃°•°❀°•°❃•━━━━┛
-๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʙ
+
 
 
 
 ๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
 
-➼ So What U Waiting For Add Me To Ur chat
+➼ So What U Waiting For Add Me To Ur chat.
 
 
 
