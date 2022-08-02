@@ -72,7 +72,7 @@ PM_START_TEXT = """
 
 
 ➼ So What U Waiting For Add Me To Ur chat
-───────────────────────
+
 """
 buttons = [
     [
