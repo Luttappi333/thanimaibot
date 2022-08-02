@@ -61,13 +61,18 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """ 
 𝕙𝕖𝕪  𝕥𝕙𝕖𝕣𝕖!.
-telegram Group management with lots of features.
+๏ I am 𝙻𝙸𝚂𝙰 !
+
+๏ ɪᴍ ᴏɴᴇ ᴏꜰ ᴛʜᴇ ᴩᴏᴡᴇʀꜰᴜʟʟ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢɪɴɢ ʙᴏᴛ.
 ───────────────────────
-× Uptime: 8days, 10h:36m:16s
+
 ×  `{}` users, across `{}` chats..
 ───────────────────────
 ✪ Bot For help You Manage & Protect Your Groups.
 ➼ So What U Waiting For Add Me To Ur chat
+๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
+
+
 ───────────────────────
 """
 buttons = [
