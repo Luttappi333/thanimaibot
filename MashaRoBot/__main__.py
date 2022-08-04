@@ -95,7 +95,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="❤️𝕭𝖔𝖙 𝖀𝖕𝖉𝖆𝖙𝖊$💙", url="t.me/kombotzz"),
-        InlineKeyboardButton(text="✨ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭✨", url="https://t.me/komlinks"),
+        InlineKeyboardButton(text="✨ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭✨", url="https://t.me/KOMBOTZZSUPPORT"),
     ],
     [
         InlineKeyboardButton(text="⚠️𝗦𝗼𝘂𝗿𝗰𝗲⚠️🖥️", callback_data="source_"
